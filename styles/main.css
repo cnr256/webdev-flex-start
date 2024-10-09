@@ -68,6 +68,14 @@ header{
 section{
     padding:0 10px 10px 0;
 }
+.sidebar2{
+    padding:20px 40px;	
+    border:1px solid #ccc;
+    border-radius:8px;
+    margin-top: 70px; 
+    flex: 0 0 250px;
+   
+ }
 .sidebar{
     padding:20px 40px;	
     border:1px solid #ccc;
@@ -93,10 +101,4 @@ footer{
     font-style:italic;
 }
 
-.sidebar2 {
-display: block;
-  color: black;
-  padding: 16px;
-  text-decoration: none;
-}
 
